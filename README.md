@@ -48,3 +48,14 @@ Smith圆图：同步显示阻抗轨迹
 
 
 
+最后，再测量天线效率前，P1阶段使用短0.6mm天线明显2450MHz谐振，天线S11 2450MHz谐振。但是P2使用的结构和P1不一样
+
+<img width="2400" height="1400" alt="P1 FF swap P2 MLB " src="https://github.com/user-attachments/assets/de32e6cb-6076-46e4-9a54-9c44995dc239" />
+
+所以此时的短0.6mm天线谐振频率对应到2490MHz上了，通过HFSS仿真数据，天线比P1短0.3mm或者0.4mm会更好
+
+
+
+
+
+
