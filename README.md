@@ -54,6 +54,13 @@ Smith圆图：同步显示阻抗轨迹
 
 所以此时的短0.6mm天线谐振频率对应到2490MHz上了，通过HFSS仿真数据，天线比P1短0.3mm或者0.4mm会更好
 
+<img width="1919" height="1054" alt="image" src="https://github.com/user-attachments/assets/c131f5c7-54c6-407a-b955-09e54082f4c6" />
+
+
+
+附件还有S11和VSWR直接的换算excel表格，使用了4年分享给你们
+
+
 
 
 
