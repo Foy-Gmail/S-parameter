@@ -10,9 +10,6 @@ dB幅度图：显示 S参数随频率的幅度变化
 Smith圆图：同步显示阻抗轨迹
 两图可通过菜单独立开关
 
-<img width="1302" height="830" alt="Screenshot 2026-03-16 at 23 34 12" src="https://github.com/user-attachments/assets/adc41a95-fdb9-40fe-bf61-cdd142083e80" />
-
-
 参数控制
 
 自定义频率范围（Start/Stop）
