@@ -58,7 +58,17 @@ Smith圆图：同步显示阻抗轨迹
 
 
 
+
+
+
 附件还有S11和VSWR直接的换算excel表格，使用了4年分享给你们
+
+
+<img width="1131" height="223" alt="image" src="https://github.com/user-attachments/assets/9fee5b67-6770-44ef-8dfa-cf763bf7fd8f" />
+
+<img width="1441" height="1045" alt="image" src="https://github.com/user-attachments/assets/70d22ab8-5d08-4c04-a075-8d8f8631af69" />
+
+
 
 
 
