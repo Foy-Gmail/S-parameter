@@ -19,9 +19,8 @@ Smith圆图：同步显示阻抗轨迹
 自定义 Y 轴范围（dB Max/Min）
 标记特定频率点（同时在 dB 图和 Smith 图上高亮）
 支持 S11~S44 任意多参数同时显示
-
-<img width="1302" height="830" alt="Screenshot 2026-03-16 at 23 34 12" src="https://github.com/user-attachments/assets/c9090fc1-4dac-4b04-8821-8a7208c2ee33" />
-<img width="1302" height="830" alt="Screenshot 2026-03-16 at 23 34 12" src="https://github.com/user-attachments/assets/d5587a2c-cebf-439e-a8ab-bb889c0123e2" />
+<img width="492" height="824" alt="image" src="https://github.com/user-attachments/assets/75a1a2a2-9658-46b9-ae84-5cd46f7bd7e7" />
+<img width="1263" height="773" alt="image" src="https://github.com/user-attachments/assets/a64c3f7d-4fa4-4328-b995-ed9e04605d63" />
 
 
 
